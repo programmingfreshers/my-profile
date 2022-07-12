@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 
 
 function App() {
+  document.body.style.backgroundImage = 'image.png';
   return (
     <>
       <Navbar/>
